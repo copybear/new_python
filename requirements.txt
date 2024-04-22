@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+google_cloud_aiplatform==1.49.0
+google-generativeai==0.5.2
+gradio==4.28.3
+Pillow==10.3.0
+Requests==2.31.0
